@@ -1,0 +1,9 @@
+# Large sequencing files
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+
+# Temporary files
+.Rhistory
+*.log
