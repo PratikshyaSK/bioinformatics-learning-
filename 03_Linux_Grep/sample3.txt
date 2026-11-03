@@ -1,0 +1,6 @@
+gene_001 is expressed
+sample_001 passed quality control
+plant_001 is healthy
+gene_002 is not expressed
+sample_002 failed quality control
+soil_001 has high organic matter

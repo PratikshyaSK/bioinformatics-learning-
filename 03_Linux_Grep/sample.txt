@@ -1,0 +1,7 @@
+gene_001 is expressed
+gene_002 is not expressed
+sample_001 passed quality control
+gene_003 is expressed
+sample_002 failed quality control
+Gene_004 is expressed
+GENE_005 is not expressed
